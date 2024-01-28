@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://mas.to/@nocturnes"/>
+> "When you do things right, people won't be sure you've done anything at all."
