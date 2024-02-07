@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 > "When you do things right, people won't be sure you've done anything at all."
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-bit-wonder"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-bit-wonder&layout=compact&hide_progress=true&theme=high_contrast"/>
