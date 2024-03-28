@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="504" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="522" class="">
   
 
   <defs><style>@font-face {
@@ -33,12 +33,13 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">1-bit-wonder@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#########           ] 41.98%
-<b>ELIXIR      </b> [#####               ] 20.15%
-<b>CSS         </b> [####                ] 16.63%
-<b>RUST        </b> [####                ] 16.43%
-<b>TYPESCRIPT  </b> [#                   ] 3.99 %
+<pre><div class="stdin"><span class="ps1-path">1-bit-wonder@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#########           ] 41.72%
+<b>ELIXIR      </b> [#####               ] 20.02%
+<b>CSS         </b> [####                ] 16.52%
+<b>RUST        </b> [####                ] 16.33%
+<b>TYPESCRIPT  </b> [#                   ] 3.97 %
 <b>SHELL       </b> [#                   ] 0.81 %
+<b>GLEAM       </b> [#                   ] 0.64 %
 </div>
 <div class="stdin"><span class="ps1-path">1-bit-wonder@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
