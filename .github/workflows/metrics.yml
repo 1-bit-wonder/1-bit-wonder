@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: 1-bit-wonder
-          template: terminal
+          template: markdown
           base: ""
           config_timezone: America/Winnipeg
           plugin_isocalendar: yes
