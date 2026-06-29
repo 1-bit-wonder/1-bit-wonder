@@ -30,7 +30,7 @@ Nothing underneath that to abstract away.
 
 ### By day
 
-Full-stack web since 2017. I started in the trenches of PHP and Laravel and have spent every year since deleting things. The toolbelt is down to Astro, TypeScript, and plain HTML/CSS, with a database added only when the problem leaves no other option. Fewer moving parts, less to break.
+Full-stack web since 2017. Years in PHP and Laravel, still comfortable there, though these days I work mostly in Astro, TypeScript, and plain HTML/CSS. I reach for the lightest stack a project needs and add a database or a heavier framework when the work calls for it.
 
 ### Reading / reach
 
